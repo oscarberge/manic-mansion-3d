@@ -1,5 +1,7 @@
 # manic-mansion-3d
 
+![Skjermbilde av spillet](screenshot.png)
+
 Laget ekslusivt med pygame og numpy.
 
 Bruk _wasd_ til å bevege, piltastene til å se rundt.
