@@ -1,5 +1,7 @@
 # manic-mansion-3d
 
+Laget som del av prosjektarbeid i IT2.
+
 ![Skjermbilde av spillet](screenshot.png)
 
 Laget ekslusivt med pygame og numpy.
